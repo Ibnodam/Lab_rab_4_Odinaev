@@ -1,29 +1,4 @@
-﻿//// Лабораторная работа 3. Задание 3
-//try
-//{
-//    Console.Write("Введите x: ");
-//    double x = double.Parse(Console.ReadLine());
-//    Console.WriteLine("Введите количество членов суммы ряда:");
-//    int n = int.Parse(Console.ReadLine());
-//    double sum = 0;
-//    double i = 1;
-//    int counter = 0;
-//    while (counter < n)
-//    {
-//        sum = (sum + ((Math.Sin((x * i))) / i));
-//        i = i + 2;
-//        counter++;
-//    }
-//    Console.WriteLine($"Сумма {n} членов ряда равна {sum:F2}.");
-//}
-//catch (Exception ex)
-//{ Console.WriteLine(ex.Message); }
-
-
-
-
-
-
+// Лабораторная работа 4. Задание 1.
 //Console.Write("Введите количество элементов массива: ");
 //int n = int.Parse(Console.ReadLine());
 //string[] mas = new string[n];
@@ -40,5 +15,7 @@
 //    }
 
 //}
+
+
 
 
